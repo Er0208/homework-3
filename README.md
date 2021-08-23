@@ -1,4 +1,4 @@
-# homework3
+# homework-3
 Project Temperature Convertion
 
 HMTL, CSS, Javascript with Unit Testing Jest
